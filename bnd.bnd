@@ -1,0 +1,7 @@
+Bundle-Name: com.liferay.tableau.integration
+Bundle-SymbolicName: com.liferay.tableau.integration.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.tableau.integration.portlet.constants
+-metatype: *
+-sources: true
+Service-Component: *
